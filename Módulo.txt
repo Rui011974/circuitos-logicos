@@ -1,0 +1,1 @@
+Um módulo de comunicação é um componente eletrônico que se conecta com um microcontrolador ou microprocessador de forma a permitir a comunicação, ou seja, o envio e recebimento de dados via algum meio específico. Um dos critérios mais importantes quando se trata de comunicação é a distância
